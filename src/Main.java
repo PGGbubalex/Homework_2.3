@@ -18,5 +18,7 @@ public class Main {
         var newEachWorkerTime = totalWorkTime / totalWorkers;
         System.out.println("Если в компании работает " + totalWorkers + " человек, то всего " + newEachWorkerTime + " часов работы может быть поделено между сотрудниками");
 
+
+
     }
 }
